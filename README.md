@@ -35,6 +35,14 @@ npm install
 task_management_api
 ```
 
+5. Create .env file in the project folder and add the following
+```
+DB_name = "your database name"
+DB_user = "usernme of datatabse"
+DB_password = 'database password'
+JWT_SECRET = secret key for user authentication
+```
+
 4. Run the project by using the followin command.
 ```
 nodemon app.js
