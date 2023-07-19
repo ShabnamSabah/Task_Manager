@@ -30,9 +30,9 @@ npm init
 ```
 npm install
 ```
-3. Create the databse with following name in MySQL database
+3. Create the databse with a name in Xampp Server/MySQl Workbench
 ```
-task_management_api
+your database name
 ```
 
 4. Create .env file in the project folder and add the following
